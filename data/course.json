@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "fb00432b-9f4b-6ef4-7c17-6d7d73f6e54a",
+  "instructors": {
+    "content": [
+      "45456919-78d7-992c-22a1-916a3f4cfaae",
+      "ac236635-4fad-c5ef-b860-c4b3aceb6088"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd981ce7-2401-603d-6cf3-8092cd548b9d",
+    "website": "5-37-introduction-to-organic-synthesis-laboratory-spring-2009"
+  },
+  "course_title": "Introduction to Organic Synthesis Laboratory",
+  "course_description": "This course, which spans a third of a semester, provides students with experience\u00a0using techniques employed in synthetic organic chemistry. It also\u00a0introduces them to the exciting research area of catalytic chiral catalysis.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.37",
+  "course_image_thumbnail": {
+    "content": "e5bf544b-edca-61c0-f01d-2ac087bc2a07",
+    "website": "5-37-introduction-to-organic-synthesis-laboratory-spring-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "26e65c21-8717-4228-8192-1c364ecc879b",
+  "site_short_id": "5.37-spring-2009",
+  "title": "Course Metadata"
+}
